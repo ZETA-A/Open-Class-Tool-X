@@ -3,7 +3,7 @@
 
 ## 프로그램 최소 구동사양
 Windows 10 20H2 업데이트 이후의 64비트 PC<br/>
-macOS Catalina 이후의 Macintosh (추후 지원 예정 / 약 3일 정도 뒤)
+macOS Catalina 이후의 Macintosh (추후 지원 예정 / 2022 )
 
 ## 업데이트
  - 180도 달라져버린 UI! 이전의 파워포인트같았던 UI에서, Apple사의 디자인 가이드라인에 최대한 맞춰서 제작!
